@@ -1,0 +1,5 @@
+To make emacs aware of the code in this directory use something like in ~/.emacs.
+
+(add-to-list 'load-path "<path_to_this_directory>")
+
+(load-file "<path_to_this_directory>/init.el")
