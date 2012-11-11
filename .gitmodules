@@ -1,0 +1,12 @@
+[submodule "Pymacs"]
+	path = Pymacs
+	url = git://github.com/pinard/Pymacs.git
+[submodule "rope"]
+	path = rope
+	url = git://github.com/cataliniacob/rope.git
+[submodule "ropemacs"]
+	path = ropemacs
+	url = git://github.com/cataliniacob/ropemacs.git
+[submodule "ropemode"]
+	path = ropemode
+	url = git://github.com/cataliniacob/ropemode.git
