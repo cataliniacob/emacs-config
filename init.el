@@ -6,6 +6,4 @@
 
 (load-library "move-backups-and-autosave")
 
-(load "rename-buffer-from-dir")
-
 (require 'dired-x)
