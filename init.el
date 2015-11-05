@@ -1,6 +1,5 @@
 (load "configure-cc")
 
-(load "configure-python-ide")
 (load "configure-python")
 
 (load-library "custom")
